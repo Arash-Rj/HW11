@@ -1,0 +1,14 @@
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\net8.0\ConsoleApp24.exe
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\net8.0\ConsoleApp24.deps.json
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\net8.0\ConsoleApp24.runtimeconfig.json
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\net8.0\ConsoleApp24.dll
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\net8.0\ConsoleApp24.pdb
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net8.0\ConsoleApp24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net8.0\ConsoleApp24.AssemblyInfoInputs.cache
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net8.0\ConsoleApp24.AssemblyInfo.cs
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net8.0\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net8.0\ConsoleApp24.dll
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net8.0\refint\ConsoleApp24.dll
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net8.0\ConsoleApp24.pdb
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net8.0\ConsoleApp24.genruntimeconfig.cache
+C:\Users\Mr. X\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net8.0\ref\ConsoleApp24.dll
