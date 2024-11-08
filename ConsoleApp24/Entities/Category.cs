@@ -8,11 +8,16 @@ namespace ConsoleApp24.Entities
 {
     public class Category
     {
-        public int _id { get; set; }
-        public string _name { get; set; }
+        public int id { get; set; }
+        public string name { get; set; }
         public Category()
         {
 
+        }
+        public Category(int Id,string Name)
+        {
+            id = Id;
+            name = Name;
         }
     }
 }

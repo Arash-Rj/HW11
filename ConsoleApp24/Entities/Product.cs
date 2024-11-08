@@ -8,17 +8,24 @@ namespace ConsoleApp24.Entities
 {
     public class Product
     {
-        public int _id { get; set; }
-        public string _name { get; set; }
-        public string _category { get; set; }
-        public  int _price { get; set; }
+        public int id { get; set; }
+        public string name { get; set; }
+        public string category { get; set; }
+        public  int price { get; set; }
         public Product()
         {
             
         }
+        public Product(int Id,string Name,string Category,int Price)
+        {
+            id = Id;
+            name = Name;
+            category = Category;
+            price = Price;
+        }
         public override string ToString()
         {
-            return $"Name: {_name} | Category: {_category} - Price:{_price}";
+            return $"Name: {name} | Category: {category} - Price:{price}";
         }
     }
 }

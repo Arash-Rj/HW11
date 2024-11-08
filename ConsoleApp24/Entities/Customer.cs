@@ -8,11 +8,13 @@ namespace ConsoleApp24.Entities
 {
     public class Customer
     {
-        public int _id { get; set; }
-        public string _name { get; set; }
-        public Customer()
+        public int id { get; set; }
+        public string name { get; set; }
+        public Customer(int Id,string Name)
         {
-
+            Id  = id;
+            Name = name;              
         }
+        public Customer() { }
     }
 }

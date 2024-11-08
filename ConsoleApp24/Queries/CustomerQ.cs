@@ -10,6 +10,6 @@ namespace HW11.Queries
     {
         public static string _create = "INSERT INTO Customers (Name) values (@Name);";
         public static string _GetById = "SELECT * FROM Customers WHERE Id = @Id";
-        public static string _GetAll = "SELECT * FROM Customers";
+        public static string _GetAll = "SELECT * FROM dbo.Customers";
     }
 }

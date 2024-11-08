@@ -19,7 +19,7 @@ namespace HW11.Repository
         {
             using (IDbConnection DataBase = new SqlConnection(DbConfig.ConnectionString))
             {
-                DataBase.Execute(CustomerQ._create, new { customer._name });
+                DataBase.Execute(CustomerQ._create, new { customer.name });
             }
         }
 
@@ -37,6 +37,12 @@ namespace HW11.Repository
             {
                 return DataBase.Query<Customer>(CustomerQ._GetAll).ToList();
             }
+            //using IDbConnection cm = new SqlConnection(DbConfig.ConnectionString);
+
+            //var query = "SELECT * FROM dbo.Customers";
+            //var cmd = new CommandDefinition(query);
+            //var result = cm.Query<Customer>(cmd).ToList();
+            //return result;
         }
     }
 }

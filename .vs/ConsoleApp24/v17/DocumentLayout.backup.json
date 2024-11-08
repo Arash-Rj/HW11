@@ -7,28 +7,20 @@
       "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\repository\\dappercustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\repository\\dappercustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\repository\\dapperproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\repository\\dapperproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\interface\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\interface\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\queries\\productq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,36 +31,44 @@
       "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\entities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\repository\\dappercustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\repository\\dappercustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\queries\\customerq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\queries\\customerq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\queries\\customerq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\queries\\customerq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\interface\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\interface\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\configuration\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\configuration\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\interface\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\interface\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\interface\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\interface\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|c:\\users\\mr. x\\source\\repos\\hw11\\consoleapp24\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0BE939-1BA0-4C7E-AC16-5420D4C1B1FC}|ConsoleApp24\\HW11.csproj|solutionrelative:consoleapp24\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,122 +90,129 @@
               "RelativeToolTip": "ConsoleApp24\\Interface\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T16:24:50.226Z"
+              "WhenOpened": "2024-11-04T16:24:50.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Services\\ProductService.cs",
               "RelativeToolTip": "ConsoleApp24\\Services\\ProductService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAlwDEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T16:23:37.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ProductQ.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Queries\\ProductQ.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Queries\\ProductQ.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Queries\\ProductQ.cs",
               "RelativeToolTip": "ConsoleApp24\\Queries\\ProductQ.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:30:02.748Z"
+              "WhenOpened": "2024-11-03T20:30:02.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "CustomerQ.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Queries\\CustomerQ.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Queries\\CustomerQ.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Queries\\CustomerQ.cs",
               "RelativeToolTip": "ConsoleApp24\\Queries\\CustomerQ.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:29:48.483Z"
+              "WhenOpened": "2024-11-03T20:29:48.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "DbConfig.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Configuration\\DbConfig.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Configuration\\DbConfig.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Configuration\\DbConfig.cs",
               "RelativeToolTip": "ConsoleApp24\\Configuration\\DbConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:27:44.367Z"
+              "WhenOpened": "2024-11-03T20:27:44.367Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "DapperCustomerRepo.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Repository\\DapperCustomerRepo.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Repository\\DapperCustomerRepo.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Repository\\DapperCustomerRepo.cs",
               "RelativeToolTip": "ConsoleApp24\\Repository\\DapperCustomerRepo.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:15:27.636Z"
+              "WhenOpened": "2024-11-03T20:15:27.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 12,
               "Title": "ICustomerRepo.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Interface\\ICustomerRepo.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Interface\\ICustomerRepo.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Interface\\ICustomerRepo.cs",
               "RelativeToolTip": "ConsoleApp24\\Interface\\ICustomerRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:14:55.551Z"
+              "WhenOpened": "2024-11-03T20:14:55.551Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Entities\\Result.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Entities\\Result.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Entities\\Result.cs",
               "RelativeToolTip": "ConsoleApp24\\Entities\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:09:25.449Z"
+              "WhenOpened": "2024-11-03T20:09:25.449Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "DapperProductRepo.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Repository\\DapperProductRepo.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Repository\\DapperProductRepo.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Repository\\DapperProductRepo.cs",
               "RelativeToolTip": "ConsoleApp24\\Repository\\DapperProductRepo.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAwDcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T20:08:02.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Services\\CustomerService.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Services\\CustomerService.cs",
               "RelativeToolTip": "ConsoleApp24\\Services\\CustomerService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwEAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T20:06:08.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "ICustomerService.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Interface\\ICustomerService.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Interface\\ICustomerService.cs",
@@ -213,11 +220,12 @@
               "RelativeToolTip": "ConsoleApp24\\Interface\\ICustomerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:03:34.696Z"
+              "WhenOpened": "2024-11-03T20:03:34.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "IProductRepo.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Interface\\IProductRepo.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Interface\\IProductRepo.cs",
@@ -230,19 +238,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Entities\\Category.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Entities\\Category.cs",
               "RelativeToolTip": "ConsoleApp24\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T18:58:25.055Z"
+              "WhenOpened": "2024-11-03T18:58:25.055Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Entities\\Order.cs",
@@ -254,25 +263,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Entities\\Customer.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Entities\\Customer.cs",
               "RelativeToolTip": "ConsoleApp24\\Entities\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T18:56:16.177Z"
+              "WhenOpened": "2024-11-03T18:56:16.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Entities\\Product.cs",
               "RelativeToolTip": "ConsoleApp24\\Entities\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T18:55:33.438Z",
               "EditorCaption": ""
@@ -285,7 +295,7 @@
               "RelativeDocumentMoniker": "ConsoleApp24\\Program.cs",
               "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW11\\ConsoleApp24\\Program.cs",
               "RelativeToolTip": "ConsoleApp24\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAYwMEAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T18:54:55.366Z",
               "EditorCaption": ""

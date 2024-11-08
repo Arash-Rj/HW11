@@ -15,7 +15,7 @@ namespace HW11.Services
         IProductRepo _proRepo = new DapperProductRepo();
         public Result CreatPro(string name, string Category, int price)
         {
-            Product newpro = new Product() { _name = name, _category = Category, _price = price };
+            Product newpro = new Product() { name = name, category = Category, price = price };
             _proRepo.Add(newpro);
             return new Result(true, "Product Successfuly Added.");
         }
@@ -40,6 +40,7 @@ namespace HW11.Services
         public List<Product> GetAllPro()
         {
             List<Product> prolist = _proRepo.GetAll();
+   
             if(prolist.Count == 0)
             { throw new NullReferenceException(); }
             return prolist;

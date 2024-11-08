@@ -19,8 +19,8 @@ namespace HW11.Repository
         {
             using (IDbConnection DataBase = new SqlConnection(DbConfig.ConnectionString))
             {
-                Category C = DataBase.QueryFirstOrDefault<Category>(ProductQ._GetCategory, new { Name = pro._category});
-                DataBase.Execute(ProductQ._create, new { pro._name, C._id, pro._price });
+                Category? C = DataBase.QueryFirstOrDefault<Category>(ProductQ._GetCategory, new { Name = pro.category});
+                DataBase.Execute(ProductQ._create, new { Name=pro.name, CategoryId=C.id , Price=pro.price });
             }
         }
 
@@ -62,9 +62,10 @@ namespace HW11.Repository
             using (IDbConnection DataBase = new SqlConnection(DbConfig.ConnectionString))
             {
                 Category? C = DataBase.QueryFirstOrDefault<Category>
-                    (ProductQ._GetCategory, new { Name = pro._category });
-                DataBase.Execute(ProductQ._Update,new { Id = pro._id, Name = pro._name, CategoryId = C._id, Price = pro._price });
+                    (ProductQ._GetCategory, new { Name = pro.category });
+                DataBase.Execute(ProductQ._Update,new { Id = pro.id, Name = pro.name, CategoryId = C.id, Price = pro.price });
             }
         }
     }
 }
+ 

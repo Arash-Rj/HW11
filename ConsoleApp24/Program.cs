@@ -7,9 +7,10 @@ var customerservice = new CustomerService();
 bool isfinished = false;
 do
 {
+    Console.Clear();
     Console.WriteLine("*****Welcome To The store*****");
     Console.WriteLine("1.Login");
-    Console.WriteLine("Sign up");
+    Console.WriteLine("2.Sign up");
     Console.WriteLine("3.Logout");
     Console.WriteLine("******************************");
     int choice=0;
@@ -85,6 +86,7 @@ void CustomerMenu()
     bool isfinished = false;
     do
     {
+        Console.Clear();
         Console.WriteLine("*****Welcome to the shop*****");
         Console.WriteLine("1.Add a new product.");
         Console.WriteLine("2.Products List.");
@@ -111,37 +113,38 @@ void CustomerMenu()
                 Console.WriteLine("Categoriese: ");
                 int i = 0;
                 var cats = proservice.GetAllCategories();
-                cats.ForEach(c => Console.WriteLine(c._id + "." + c._name));
+                cats.ForEach(c => Console.WriteLine(c.id + "." + c.name));
                 int option = int.Parse(Console.ReadLine());
-                var cat = cats.FirstOrDefault(c => c._id == option);
-                string catname = cat._name;
+                var cat = cats.FirstOrDefault(c => c.id == option);
+                string catname = cat.name;
                 Console.Write("Enter product price: ");
                 int price = int.Parse(Console.ReadLine());
                 var result = proservice.CreatPro(name, catname, price);
                 Console.WriteLine(result._messege);
                 break;
             case 2:
-                Console.WriteLine("*****List Of Products*****");
-                proservice.GetAllPro().ForEach(p => Console.WriteLine($"{p._id}. {p.ToString()}"));
-                Console.WriteLine("**************************");
                 Console.Clear();
+                Console.WriteLine("*****List Of Products*****");
+                proservice.GetAllPro().ForEach(p => Console.WriteLine($"{p.id}. {p.ToString()}"));
+                Console.WriteLine("**************************");
                 break;
             case 3:
+                Console.Clear();
                 Console.Write("Enter the product id: ");
                 int option1 = int.Parse(Console.ReadLine());
                 try
                 {
-                    proservice.GetProductById(option1).ToString();
+                    Console.WriteLine(proservice.GetProductById(option1).ToString());
                 }
                 catch (NullReferenceException)
                 {
                     Console.WriteLine("NO Product found! Try again.");
                 }
-                Console.Clear();
                 break;
             case 4:
+                Console.Clear();
                 Console.WriteLine("*****List Of Products*****");
-                proservice.GetAllPro().ForEach(p => Console.WriteLine($"{p._id}. {p.ToString()}"));
+                proservice.GetAllPro().ForEach(p => Console.WriteLine($"{p.id}. {p.ToString()}"));
                 Console.WriteLine("**************************");
                 Console.Write("Enter the product id: ");
                 int option2 = int.Parse(Console.ReadLine());
@@ -160,38 +163,44 @@ void CustomerMenu()
                     case 1:
                         Console.Write("Enter The new name: ");
                         string proname = Console.ReadLine();
-                        product._name = proname;
+                        product.name = proname;
                         break;
                     case 2:
                         Console.Write("Enter The new CategoryId: ");
                         int newcatid = int.Parse(Console.ReadLine());
                         var Categories = proservice.GetAllCategories();
-                        var newcat = Categories.First(c => c._id == newcatid);
-                        product._category = newcat._name;
+                        var newcat = Categories.First(c => c.id == newcatid);
+                        product.category = newcat.name;
                         break;
                     case 3:
                         Console.Write("Enter The new price: ");
                         int newprice = int.Parse(Console.ReadLine());
-                        product._price = newprice;
+                        product.price = newprice;
+                        break;
+                    default:
+                        Console.WriteLine("Invalid Expression");
                         break;
                 }
+                if(option3<4)
                 Console.WriteLine(proservice.EditPro(product)._messege);
                 break;
-            case 5:
+            case 5:      
+                Console.Clear();
                 Console.WriteLine("*****List Of Products*****");
-                proservice.GetAllPro().ForEach(p => Console.WriteLine($"{p._id}. {p.ToString()}"));
+                proservice.GetAllPro().ForEach(p => Console.WriteLine($"{p.id}. {p.ToString()}"));
                 Console.WriteLine("**************************");
                 Console.Write("Enter the product id: ");
                 int option4 = int.Parse(Console.ReadLine());
                 Console.WriteLine(proservice.DeletePro(option4)._messege);
-                Console.Clear();
                 break;
             case 6:
                 Console.Clear();
                 Console.WriteLine(customerservice.Logout()._messege);
+                isfinished = true;
                 break;
         }
         Console.WriteLine("Press any key...");
         Console.ReadKey();
+        Console.Clear();
     } while(!isfinished);
 }

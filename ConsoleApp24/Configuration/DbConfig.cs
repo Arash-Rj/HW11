@@ -11,7 +11,7 @@ namespace HW11.Configuration
         public static string ConnectionString { get; set; }
         static DbConfig()
         {
-            ConnectionString = @"Data Source=DESKTOP-7648UU0\SQLEXPRESS;Initial Catalog=ShopDb; Integrated Security=true;";
+            ConnectionString = @"Data Source=DESKTOP-7648UU0\SQLEXPRESS;Initial Catalog= ShopDb; Integrated Security=true;";
         }
     }
 }

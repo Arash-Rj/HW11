@@ -21,7 +21,7 @@ namespace HW11.Services
             {
                 foreach (var user in users)
                 {
-                    if (user._name == username)
+                    if (user.name == username)
                     {
                        _OnlineCustomer = user;
                         return new Result(true, "Login was successful.");
@@ -44,8 +44,8 @@ namespace HW11.Services
 
         public Result Register(string username)
         {
-            Customer newcustomer = new Customer() { _name= username };
-            List<Customer> customers = _customerRepo.GetAll();
+            Customer newcustomer = new Customer() { name= username };
+            var customers = _customerRepo.GetAll();
             if (customers is null)
             {
                 _customerRepo.Add(newcustomer);
@@ -54,7 +54,7 @@ namespace HW11.Services
             {
                 foreach (var customer in customers)
                 {
-                    if (customer._name.Equals(username))
+                    if (customer.name.Equals(username))
                     {
                         return new Result(false, "Register failed. User already exists");
                     }
